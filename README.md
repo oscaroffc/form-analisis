@@ -13,10 +13,10 @@ Tool ini mengekstrak data publik dari website, termasuk scanning source (HTML + 
 
 ## Instalasi
 ```bash
-git clone <this-repo>
+git clone https://github.com/oscaroffc/form-analisis.git
 ```
 ```bash
-cd <this-repo>
+cd form-analisis
 ```
 ```bash
 python3 -m venv venv
@@ -29,10 +29,11 @@ pip install -r requirements.txt
 ```
 ### Cara Pakai
 ```bash
-python3 web_deep_extractor.py --target https://example.com
+python3 analisis.py --target https://example.com
 ```
 # Ketik YES ketika diminta konfirmasi izin
-
+```
+```
 ### Opsi:
 
 --max-pages N : batas halaman yang di-crawl
