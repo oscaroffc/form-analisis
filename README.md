@@ -44,8 +44,7 @@ python3 analisis.py --target https://example.com
 
 sessions/<host>_<timestamp>.txt  — human-readable report
 sessions/<host>_<timestamp>.json — structured JSON report
-```
-```
+
 ### Catatan teknis
 
 Tool ini hanya membaca sumber publik via HTTP(S). Tidak mencoba login, brute-force, atau mengakses file sensitif di server.
