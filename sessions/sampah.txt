@@ -1,0 +1,12 @@
+==============================
+   License & Contact Info
+==============================
+
+GitHub   : https://github.com/oscaroffc  
+WhatsApp : +6282210466813
+By       : oscaroffc
+
+🔑hexadecimal
+python3 -c "bytes_object = bytes.fromhex('your_pass'); print(bytes_object.decode())"
+🔑base64
+python3 -c "import base64; print(base64.b64decode('your_pass').decode())"
