@@ -32,8 +32,8 @@ pip install -r requirements.txt
 python3 analisis.py --target https://example.com
 ```
 # Ketik YES ketika diminta konfirmasi izin
-```
-```
+
+
 ### Opsi:
 
 --max-pages N : batas halaman yang di-crawl
