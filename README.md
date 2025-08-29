@@ -51,34 +51,10 @@ Tool ini hanya membaca sumber publik via HTTP(S). Tidak mencoba login, brute-for
 
 Hati-hati: beberapa situs besar bisa memblokir crawling agresif; gunakan --max-pages kecil dan REQUEST_DELAY lebih besar untuk etika.
 
-
-# 📜 Lisensi Attribution (BY)
-
-![License](https://img.shields.io/badge/License-Attribution%20(BY)-blue?style=for-the-badge)
-![Year](https://img.shields.io/badge/Year-2025-green?style=for-the-badge)
-![Author](https://img.shields.io/badge/Author-Nama%20Kamu-orange?style=for-the-badge)
-
-Repositori ini dilindungi dengan lisensi **Attribution (BY)**.  
-Artinya: bebas dipakai, dimodifikasi, atau dibagikan **selama menyertakan kredit/sumber**.
-
----
-
 ## 🌐 Platform
 
 | Platform   | Badge | Aturan Kredit |
 |------------|-------|---------------|
-| 💬 WhatsApp | ![WA](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white) | Gunakan dengan menyebut sumber WhatsApp: `@nomor_kamu` |
-| 🐙 GitHub   | ![GH](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) | Kode ini boleh digunakan dengan menyebut sumber GitHub: `@username_kamu` |
-| ▶️ YouTube  | ![YT](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white) | Video ini boleh digunakan dengan menyebut sumber Channel: `Nama Channel` |
-| 🎵 TikTok   | ![TT](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white) | Konten ini boleh digunakan dengan menyebut sumber TikTok: `@username_kamu` |
-
----
-
-## 📅 Informasi
-- **Author**: Nama Kamu / Organisasi  
-- **Tahun**: 2025  
-- **Lisensi**: Attribution (BY)  
-
----
-
-✍️ *“Bebas dipakai dan dibagikan asal mencantumkan kredit sesuai platform.”*
+| 🐙 GitHub   | ![GH](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) | `https://github.com/oscaroffc` |
+| ▶️ YouTube  | ![YT](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white) | `https://youtube.com/@oscar-offc` |
+| 🎵 TikTok   | ![TT](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white) | `no tiktok` |
