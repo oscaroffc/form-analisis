@@ -53,8 +53,8 @@ Hati-hati: beberapa situs besar bisa memblokir crawling agresif; gunakan --max-p
 
 ## 🌐 Platform
 
-| Platform   | Badge | Aturan Kredit |
-|------------|-------|---------------|
-| 🐙 GitHub   | ![GH](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) | `https://github.com/oscaroffc` |
-| ▶️ YouTube  | ![YT](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white) | `https://youtube.com/@oscar-offc` |
-| 🎵 TikTok   | ![TT](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white) | `no tiktok` |
+| platform | Aturan Kredit |
+|-------|---------------|
+| ![GH](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) | `https://github.com/oscaroffc` |
+| ![YT](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white) | `https://youtube.com/@oscar-offc` |
+| ![TT](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white) | `no tiktok` |
